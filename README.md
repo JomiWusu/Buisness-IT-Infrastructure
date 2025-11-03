@@ -2,13 +2,13 @@
 Virtualized Windows server and network environment built in Hyper-V. I simulated a coporate environment demonstrating real-world it support and admin skills.
 
 ---
-
+- Assigned IPS configured DHCP for PCs and verified connectivity using ping
 - Configured Active Directory Domain Services
 - Creating and managing user accounts and groups
 - Testing network connectivity
-- Setting up DNS and DHCP for IP assignment
+- Setup file sharing and permissions for server
+- Setting up DNS for internal name resolution and DHCP for IP assignment
 - Configured multiple Remote Desktop connections to access my server
-
 ---
 
 ## Server01 IP Configuration
@@ -27,4 +27,8 @@ has access to it's own shared resources so no unauthorized access across departm
 ## Active Directory Users and Groups
 Structure inside department.local. Users and groups were organized
 ![Shared Folders ](Project_Pictures/Shared_Folders.png)
+## DNS Configuration
+DNS installed on server for name resolution ensuring clients can find network resources using
+domain names
+![DNS](Project_Pictures/DNS_Config.png)
 

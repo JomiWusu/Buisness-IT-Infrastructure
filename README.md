@@ -11,4 +11,5 @@ Virtualized Windows server and network environment built in Hyper-V. I simulated
 
 ---
 
-## My Network Tree
+## Ip Configurations
+![Network Topology](pictures/Server1 IP.png)

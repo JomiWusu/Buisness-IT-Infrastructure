@@ -11,5 +11,13 @@ Virtualized Windows server and network environment built in Hyper-V. I simulated
 
 ---
 
-## Ip Configurations
-![Network Topology](Project_Pictures/Server1_IP.png)
+## Server01 IP Configuration
+![Server 1 IP](Project_Pictures/Server1_IP.png)
+---
+## Client01 IP Configuration
+![Client 1 IP](Project_Pictures/Client1_IP.png)
+---
+## Client02 IP Configuration
+![Client 2 IP](Project_Pictures/Client2_IP.png)
+
+

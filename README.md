@@ -7,7 +7,7 @@ Virtualized Windows server and network environment built in Hyper-V. I simulated
 - Creating and managing user accounts and groups
 - Testing network connectivity
 - Setup file sharing and permissions for server
-- Setting up DNS for internal name resolution and DHCP for IP assignment
+- Set up DNS for internal name resolution and DHCP for IP assignment
 - Configured multiple Remote Desktop connections to access my server
 ---
 

@@ -25,8 +25,9 @@ Folders shared from my server and linked to Active Directory security groups eac
 has access to it's own shared resources so no unauthorized access across departments.
 ![Shared Folders ](Project_Pictures/Shared_Folders.png)
 ## Active Directory Users and Groups
-Structure inside department.local. Users and groups were organized
-![Shared Folders ](Project_Pictures/Shared_Folders.png)
+Structure inside department.local. Users and groups were organized to support role based access
+control each group is linked to shared folders and permissions.
+![Shared Folders ](Project_Pictures/AD_Users_Groups.png)
 ## DNS Configuration
 DNS installed on server for name resolution ensuring clients can find network resources using
 domain names

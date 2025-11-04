@@ -37,6 +37,6 @@ DHCP was installed on the server to automate ip address assignment to all client
 ## Group Policy Configuration
 GPO was created and linked to my organizational unit enforces restrictions like
 desktop restrictions, wallpaper and restrictions to system settings
-![GPO](Project_Pictures/GPO_policies.png)
+![GPO](Project_Pictures/GPO_Policies.png)
 
 

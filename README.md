@@ -31,4 +31,12 @@ Structure inside department.local. Users and groups were organized
 DNS installed on server for name resolution ensuring clients can find network resources using
 domain names
 ![DNS](Project_Pictures/DNS_Config.png)
+## DHCP Configuration
+DHCP was installed on the server to automate ip address assignment to all clients in the network
+![DHCP](Project_Pictures/DHCP_Config.png)
+## Group Policy Configuration
+GPO was created and linked to my organizational unit enforces restrictions like
+desktop restrictions, wallpaper and restrictions to system settings
+![GPO](Project_Pictures/GPO_policies.png)
+
 
